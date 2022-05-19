@@ -12,7 +12,7 @@ This group node is sent to vendors and multiple departements around the world :)
 This tools is manly build to present edge QC and basic premult operation overlays.
 It also presents a naming convention compatible to be extracted as depth / type / matte. 
 
-![image](https://user-images.githubusercontent.com/17770267/169211737-ffe56a01-08a7-4f00-a242-a591afbfd65e.png)
+![image](https://user-images.githubusercontent.com/17770267/169212592-386c4d5b-edb4-4c1a-ac30-5128d7af8c42.png)
 
 ## VoronoiTextureExtractor
 
